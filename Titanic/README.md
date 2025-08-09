@@ -1,0 +1,1 @@
+download the titanic dataset from kaggle at: [https://www.kaggle.com/competitions/titanic/data](https://www.kaggle.com/competitions/titanic/data)
